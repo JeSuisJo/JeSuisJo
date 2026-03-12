@@ -1,16 +1,30 @@
-## Hi there 👋
+## Salut c'est Jo ✌️  
+Si tu veux voir mes repos sur GitHub 🫵, scroll un peu plus bas 👇 on est ensemble ✌️
 
-<!--
-**JeSuisJo/JeSuisJo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Python enjoyer**, fainéant donc on automatise tout ce qui bouge.
+**Vibe générale**: si ça peut être scripté, ça sera scripté
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ OK GARMIN, C'EST QUOI MES FRAMEWORKS FAVORIS ?
+
+- **Langages**: Python, JavaScript
+- **Front**: React, Tailwind CSS
+- **Données / Config**: JSON
+
+---
+
+### 🇯🇵 Mon site pour s'améliorer en japonais
+
+- `https://nami-nihongo.fr/`
+- Améliore ton niveau de dark Sasuke, gratuitement et en français !
+
+---
+
+### 📫 Pour me contacter (ou pour rien)
+
+- **Discord**: `jaurisce` (même image de profil que sur GitHub)
+
+---
+
+> Si tu vois du code bizarre ici, c’est normal : ça marche très bien, donc on n’y touche plus. 🤡
