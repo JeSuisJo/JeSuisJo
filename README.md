@@ -1,5 +1,4 @@
-## Salut c'est Jo ✌️  
-Si tu veux voir mes repos sur GitHub 🫵, scroll un peu plus bas 👇 on est ensemble ✌️
+## Salut c'est Jo ✌️  Si tu veux voir mes repos sur GitHub 🫵, swipe up 👆 on est ensemble ✌️
 
 **Python enjoyer**, fainéant donc on automatise tout ce qui bouge.
 **Vibe générale**: si ça peut être scripté, ça sera scripté
