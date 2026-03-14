@@ -1,5 +1,6 @@
 ## Salut c'est Jo ✌️
-Si tu veux voir mes repos sur GitHub 🫵, swipe up 👆 on est ensemble ✌️
+Si tu veux voir mes repos GitHub 🫵  
+Swipe up 👆 on est ensemble ✌️
 
 - **Python enjoyer**, fainéant donc on automatise tout ce qui bouge.
 - **Vibe générale**: si ça peut être scripté, ça sera scripté
@@ -16,7 +17,7 @@ Si tu veux voir mes repos sur GitHub 🫵, swipe up 👆 on est ensemble ✌️
 
 ### 🇯🇵 Mon site pour s'améliorer en japonais
 
-- `https://nami-nihongo.fr/`
+- [nami-nihongo.fr](https://nami-nihongo.fr)
 - Améliore ton niveau de dark Sasuke, gratuitement et en français !
 
 ---
