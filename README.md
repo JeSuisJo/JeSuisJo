@@ -5,5 +5,5 @@ Fullstack dev in training at IPI Lyon. Mostly TypeScript/Next.js/React, some Pyt
 Portfolio → [joris-podvin.fr](https://joris-podvin.fr/en)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JeSuisJo/JeSuisJo/master/metrics.terminal.svg" alt="metrics" />
+  <img src="https://raw.githubusercontent.com/JeSuisJo/JeSuisJo/main/metrics.terminal.svg" alt="metrics" />
 </p>
