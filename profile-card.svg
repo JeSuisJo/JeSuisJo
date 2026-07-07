@@ -1,5 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="590" height="1028" viewBox="0 0 590 1028" font-family="SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace">
-<rect x="0" y="0" width="590" height="1028" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="490" viewBox="0 0 1120 490" font-family="SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace">
+<rect x="0" y="0" width="1120" height="490" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+
+<g transform="translate(10,7) scale(0.85)">
 <text x="20" y="20" font-size="9" fill="#58a6ff" xml:space="preserve">                                                                                                    </text>
 <text x="20" y="29.6" font-size="9" fill="#58a6ff" xml:space="preserve">                                                                                                    </text>
 <text x="20" y="39.2" font-size="9" fill="#58a6ff" xml:space="preserve">                                                                                                    </text>
@@ -55,25 +57,30 @@
 <text x="20" y="519.2000000000005" font-size="9" fill="#58a6ff" xml:space="preserve">                                ..%@@@#+++++++++@@@@#+++++++++@@@@=.                                </text>
 <text x="20" y="528.8000000000005" font-size="9" fill="#58a6ff" xml:space="preserve">                                   :#@@@@@#**++++#@++++***@@@@@@=.                                  </text>
 <text x="20" y="538.4000000000005" font-size="9" fill="#58a6ff" xml:space="preserve">                                  .*@@@@@*#@@@@@@%%%@@@@@@*%@@@@@-    </text>
-<line x1="20" y1="568.0" x2="570" y2="568.0" stroke="#30363d" stroke-width="1"/>
-<text x="30" y="596.0" font-size="13" fill="#c9d1d9">A fullstack developer in training, always chasing the next thing to</text>
-<text x="30" y="616.0" font-size="13" fill="#c9d1d9">build. Deeply, unapologetically lazy, which is exactly why he&#x27;d</text>
-<text x="30" y="636.0" font-size="13" fill="#c9d1d9">rather spend three hours writing a script than three minutes doing</text>
-<text x="30" y="656.0" font-size="13" fill="#c9d1d9">something by hand: bots that farm games while he does literally</text>
-<text x="30" y="676.0" font-size="13" fill="#c9d1d9">anything else are proof of concept. Casually learning Japanese, one</text>
-<text x="30" y="696.0" font-size="13" fill="#c9d1d9">N4 grammar point at a time, and building Nami to make that journey</text>
-<text x="30" y="716.0" font-size="13" fill="#c9d1d9">a little less painful. Currently deep in TypeScript and Next.js,</text>
-<text x="30" y="736.0" font-size="13" fill="#c9d1d9">shipping bugs first and fixing them right after.</text>
-<line x1="20" y1="768.0" x2="570" y2="768.0" stroke="#30363d" stroke-width="1"/>
-<text x="30" y="798.0" font-size="13.5" fill="#c9d1d9">{</text>
-<text x="30" y="818.0" font-size="13.5"><tspan fill="#7ee787">  &quot;name&quot;</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#a5d6ff">&quot;Joris Podvin&quot;</tspan><tspan fill="#c9d1d9">,</tspan></text>
-<text x="30" y="838.0" font-size="13.5"><tspan fill="#7ee787">  &quot;role&quot;</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#a5d6ff">&quot;Fullstack Developer&quot;</tspan><tspan fill="#c9d1d9">,</tspan></text>
-<text x="30" y="858.0" font-size="13.5"><tspan fill="#7ee787">  &quot;status&quot;</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#a5d6ff">&quot;studying @ IPI Lyon&quot;</tspan><tspan fill="#c9d1d9">,</tspan></text>
-<text x="30" y="878.0" font-size="13.5"><tspan fill="#7ee787">  &quot;stack&quot;</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#a5d6ff">[&quot;TypeScript&quot;, &quot;Next.js&quot;, &quot;React&quot;, &quot;Python&quot;]</tspan><tspan fill="#c9d1d9">,</tspan></text>
-<text x="30" y="898.0" font-size="13.5"><tspan fill="#7ee787">  &quot;learning&quot;</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#a5d6ff">&quot;Japanese (JLPT N4)&quot;</tspan><tspan fill="#c9d1d9">,</tspan></text>
-<text x="30" y="918.0" font-size="13.5"><tspan fill="#7ee787">  &quot;building&quot;</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#a5d6ff">&quot;Nami&quot;</tspan><tspan fill="#c9d1d9">,</tspan><tspan fill="#8b949e">  # japanese learning app</tspan></text>
-<text x="30" y="938.0" font-size="13.5"><tspan fill="#7ee787">  &quot;location&quot;</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#a5d6ff">&quot;France, Lyon&quot;</tspan><tspan fill="#c9d1d9">,</tspan></text>
-<text x="30" y="958.0" font-size="13.5"><tspan fill="#7ee787">  &quot;portfolio&quot;</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#a5d6ff">&quot;joris-podvin.fr&quot;</tspan><tspan fill="#c9d1d9">,</tspan></text>
-<text x="30" y="978.0" font-size="13.5"><tspan fill="#7ee787">  &quot;currently&quot;</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#a5d6ff">&quot;shipping bugs, then fixing them&quot;</tspan><tspan fill="#c9d1d9">,</tspan></text>
-<text x="30" y="998.0" font-size="13.5" fill="#c9d1d9">}</text>
+</g>
+
+<line x1="525" y1="15" x2="525" y2="475" stroke="#30363d" stroke-width="1"/>
+
+<text x="545" y="35" font-size="13" fill="#c9d1d9">A fullstack developer in training, always chasing the next thing to</text>
+<text x="545" y="55" font-size="13" fill="#c9d1d9">build. Deeply, unapologetically lazy, which is exactly why he&#x27;d</text>
+<text x="545" y="75" font-size="13" fill="#c9d1d9">rather spend three hours writing a script than three minutes doing</text>
+<text x="545" y="95" font-size="13" fill="#c9d1d9">something by hand: bots that farm games while he does literally</text>
+<text x="545" y="115" font-size="13" fill="#c9d1d9">anything else are proof of concept. Casually learning Japanese, one</text>
+<text x="545" y="135" font-size="13" fill="#c9d1d9">N4 grammar point at a time, and building Nami to make that journey</text>
+<text x="545" y="155" font-size="13" fill="#c9d1d9">a little less painful. Currently deep in TypeScript and Next.js,</text>
+<text x="545" y="175" font-size="13" fill="#c9d1d9">shipping bugs first and fixing them right after.</text>
+
+<line x1="535" y1="200" x2="1110" y2="200" stroke="#30363d" stroke-width="1"/>
+
+<text x="545" y="228" font-size="13.5" fill="#c9d1d9">{</text>
+<text x="545" y="248" font-size="13.5"><tspan fill="#7ee787">  &quot;name&quot;</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#a5d6ff">&quot;Joris Podvin&quot;</tspan><tspan fill="#c9d1d9">,</tspan></text>
+<text x="545" y="268" font-size="13.5"><tspan fill="#7ee787">  &quot;role&quot;</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#a5d6ff">&quot;Fullstack Developer&quot;</tspan><tspan fill="#c9d1d9">,</tspan></text>
+<text x="545" y="288" font-size="13.5"><tspan fill="#7ee787">  &quot;status&quot;</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#a5d6ff">&quot;studying @ IPI Lyon&quot;</tspan><tspan fill="#c9d1d9">,</tspan></text>
+<text x="545" y="308" font-size="13.5"><tspan fill="#7ee787">  &quot;stack&quot;</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#a5d6ff">[&quot;TypeScript&quot;, &quot;Next.js&quot;, &quot;React&quot;, &quot;Python&quot;]</tspan><tspan fill="#c9d1d9">,</tspan></text>
+<text x="545" y="328" font-size="13.5"><tspan fill="#7ee787">  &quot;learning&quot;</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#a5d6ff">&quot;Japanese (JLPT N4)&quot;</tspan><tspan fill="#c9d1d9">,</tspan></text>
+<text x="545" y="348" font-size="13.5"><tspan fill="#7ee787">  &quot;building&quot;</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#a5d6ff">&quot;Nami&quot;</tspan><tspan fill="#c9d1d9">,</tspan><tspan fill="#8b949e">  # japanese learning app</tspan></text>
+<text x="545" y="368" font-size="13.5"><tspan fill="#7ee787">  &quot;location&quot;</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#a5d6ff">&quot;France, Lyon&quot;</tspan><tspan fill="#c9d1d9">,</tspan></text>
+<text x="545" y="388" font-size="13.5"><tspan fill="#7ee787">  &quot;portfolio&quot;</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#a5d6ff">&quot;joris-podvin.fr&quot;</tspan><tspan fill="#c9d1d9">,</tspan></text>
+<text x="545" y="408" font-size="13.5"><tspan fill="#7ee787">  &quot;currently&quot;</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#a5d6ff">&quot;shipping bugs, then fixing them&quot;</tspan><tspan fill="#c9d1d9">,</tspan></text>
+<text x="545" y="428" font-size="13.5" fill="#c9d1d9">}</text>
 </svg>
