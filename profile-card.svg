@@ -61,14 +61,14 @@
 
 <line x1="525" y1="15" x2="525" y2="475" stroke="#30363d" stroke-width="1"/>
 
-<text x="545" y="35" font-size="13" fill="#c9d1d9">A fullstack developer in training, always chasing the next thing to</text>
-<text x="545" y="55" font-size="13" fill="#c9d1d9">build. Deeply, unapologetically lazy, which is exactly why he&#x27;d</text>
-<text x="545" y="75" font-size="13" fill="#c9d1d9">rather spend three hours writing a script than three minutes doing</text>
-<text x="545" y="95" font-size="13" fill="#c9d1d9">something by hand: bots that farm games while he does literally</text>
-<text x="545" y="115" font-size="13" fill="#c9d1d9">anything else are proof of concept. Casually learning Japanese, one</text>
-<text x="545" y="135" font-size="13" fill="#c9d1d9">N4 grammar point at a time, and building Nami to make that journey</text>
-<text x="545" y="155" font-size="13" fill="#c9d1d9">a little less painful. Currently deep in TypeScript and Next.js,</text>
-<text x="545" y="175" font-size="13" fill="#c9d1d9">shipping bugs first and fixing them right after.</text>
+<text x="545" y="35" font-size="13" fill="#c9d1d9">Fullstack developer in training, mostly building things because</text>
+<text x="545" y="55" font-size="13" fill="#c9d1d9">doing them manually sounds like a waste of time. I'm lazy enough</text>
+  <text x="545" y="75" font-size="13" fill="#c9d1d9">to spend three hours writing a script instead of doing something</text>
+  <text x="545" y="95" font-size="13" fill="#c9d1d9">by hand for three minutes. Bots, automation and random tools tend</text>
+  <text x="545" y="115" font-size="13" fill="#c9d1d9">to come out of that. Currently learning Japanese, building</text>
+  <text x="545" y="135" font-size="13" fill="#c9d1d9">Nami along the way, and working mostly with TypeScript and</text>
+  <text x="545" y="155" font-size="13" fill="#c9d1d9">Next.js. I make things, break things, then usually fix them.</text>
+
 
 <line x1="535" y1="200" x2="1110" y2="200" stroke="#30363d" stroke-width="1"/>
 
